@@ -1,2 +1,3 @@
 # Games-section
-The Base class for games and animations.
+
+The **_Base_** for games and animations.
